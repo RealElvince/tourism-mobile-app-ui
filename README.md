@@ -6,4 +6,7 @@ Tourism Mobile apps help users for planning travel, accommodation bookings, tick
 # cities screen
 ![citiesroute](https://user-images.githubusercontent.com/124202145/221407777-7f9aaada-0c29-4811-a610-41dabc558231.png)
 
+# city description and booking screen
+![city description and booking route](https://user-images.githubusercontent.com/124202145/221407937-5a797b39-0230-4f20-8ace-ee1752a639ba.png)
+
 
